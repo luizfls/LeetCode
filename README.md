@@ -5,6 +5,7 @@ https://leetcode.com/
 
 |  #  | Problem description |
 | --- | ------------------- |
+| [0002](https://github.com/luizfls/ProjectEuler/blob/master/0002.cpp) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
 | [0100](https://github.com/luizfls/ProjectEuler/blob/master/0100.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) |
 | [0238](https://github.com/luizfls/ProjectEuler/blob/master/0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |
 | [0575](https://github.com/luizfls/ProjectEuler/blob/master/0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) |
