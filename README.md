@@ -9,6 +9,7 @@ https://leetcode.com/
 | [0012](0012.cpp) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium |
 | [0100](0100.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
 | [0125](0125.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
+| [0146](0146.cpp) | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [0242](0242.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
