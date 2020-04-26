@@ -10,11 +10,11 @@ public:
     }
 
     int pop() {
-        int x = freq2nums.rbegin()->second.top();
+        int x = freq2nums.begin()->second.top();
 
-        freq2nums.rbegin()->second.pop();
-        if(freq2nums.rbegin()->second.empty())
-            freq2nums.erase(std::prev(freq2nums.cend()));
+        freq2nums.begin()->second.pop();
+        if(freq2nums.begin()->second.empty())
+            freq2nums.erase(freq2nums.begin());
 
         num2freq[x]--;
         if(num2freq[x] == 0)
@@ -24,7 +24,7 @@ public:
     }
 
 private:
-    std::map<int, std::stack<int>> freq2nums;
+    std::map<int, std::stack<int>, std::greater<int>> freq2nums;
     std::unordered_map<int, int> num2freq;
 };
 
