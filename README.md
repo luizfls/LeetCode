@@ -12,6 +12,7 @@ https://leetcode.com/
 | [0146](0146.cpp) | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [0242](0242.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
+| [0543](0543.cpp) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
 | [0895](0895.cpp) | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 | [1008](1008_iterative.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Iterative |
