@@ -20,4 +20,5 @@ https://leetcode.com/
 | [0895](0895.cpp) | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 | [1008](1008_iterative.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Iterative |
 | [1008](1008_recursive.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Recursive |
+| [1028](1028.cpp) | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038](1038.cpp) | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
