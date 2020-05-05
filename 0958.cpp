@@ -11,6 +11,7 @@
  */ class Solution { public:
     bool isCompleteTree(TreeNode* root) {
         std::vector<bool> levelOrder;
+
         std::queue<TreeNode*> q({root});
         while(!q.empty())
         {
@@ -25,10 +26,12 @@
             else
                 levelOrder.emplace_back(false);
         }
+
         auto firstFalse = std::find(levelOrder.cbegin(), levelOrder.cend(), false);
         for(auto it = firstFalse; it != levelOrder.cend(); ++it)
             if(*it == true)
                 return false;
+
         return true;
     }
 };

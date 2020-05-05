@@ -14,6 +14,7 @@ https://leetcode.com/
 | [0124](0124.cpp) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
 | [0125](0125.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
 | [0146](0146.cpp) | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
+| [0232](0232.cpp) | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [0242](0242.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | [0543](0543.cpp) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
