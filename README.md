@@ -23,6 +23,7 @@ https://leetcode.com/
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
 | [0895](0895.cpp) | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 | [0958](0958.cpp) | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |
+| [0993](0993.cpp) | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy |
 | [1008](1008_iterative.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Iterative |
 | [1008](1008_recursive.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Recursive |
 | [1028](1028.cpp) | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |
