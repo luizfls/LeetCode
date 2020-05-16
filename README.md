@@ -19,6 +19,7 @@ https://leetcode.com/
 | [0232](0232.cpp) | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [0242](0242.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
+| [0328](0328.cpp) | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |
 | [0543](0543.cpp) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
 | [0733](0733.cpp) | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |
