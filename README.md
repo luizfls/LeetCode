@@ -27,6 +27,7 @@ https://leetcode.com/
 | [0807](0807.cpp) | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium |
 | [0895](0895.cpp) | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 | [0958](0958.cpp) | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |
+| [0986](0986.cpp) | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium |
 | [0993](0993.cpp) | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy |
 | [1008](1008_iterative.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Iterative |
 | [1008](1008_recursive.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Recursive |
