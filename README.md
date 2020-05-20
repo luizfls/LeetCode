@@ -25,6 +25,7 @@ https://leetcode.com/
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
 | [0733](0733.cpp) | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |
 | [0807](0807.cpp) | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium |
+| [0831](0831.cpp) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | Medium |
 | [0895](0895.cpp) | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 | [0958](0958.cpp) | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |
 | [0986](0986.cpp) | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium |
