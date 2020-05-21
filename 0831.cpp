@@ -17,32 +17,31 @@ private:
         return s;
     }
 
-    std::string parsePhone(const std::string& s)
+    std::string parsePhone(std::string& s)
     {
-        std::string digits;
+        // remove non-digits
+        s.erase(std::remove_if(s.begin(), s.end(),
+                               [](char c){ return !std::isdigit(c); }),
+                s.end());
 
-        for(auto c : s)
-            if(std::isdigit(c))
-                digits += c;
-
-        // local
-        if(digits.size() == 10)
+        // local number
+        if(s.size() == 10)
         {
-            digits.replace(0, 6, 6, '*');
-            digits.insert(3, "-");
-            digits.insert(7, "-");
+            s.replace(0, 6, 6, '*');
+            s.insert(3, "-");
+            s.insert(7, "-");
         }
-        // international
+        // international number
         else
         {
-            auto cc_size = digits.size() - 10;
-            digits.replace(0, cc_size + 6, cc_size + 6, '*');
-            digits.insert(0, "+");
-            digits.insert(cc_size + 1, "-");
-            digits.insert(cc_size + 5, "-");
-            digits.insert(cc_size + 9, "-");
+            auto cc_size = s.size() - 10;
+            s.replace(0, cc_size + 6, cc_size + 6, '*');
+            s.insert(0, "+");
+            s.insert(cc_size + 1, "-");
+            s.insert(cc_size + 5, "-");
+            s.insert(cc_size + 9, "-");
         }
 
-        return digits;
+        return s;
     }
 };
