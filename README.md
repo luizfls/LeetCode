@@ -38,5 +38,6 @@ https://leetcode.com/
 | [1038](1038.cpp) | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1106](1106.cpp) | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard |
 | [1222](1222.cpp) | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | Medium |
+| [1302](1302.cpp) | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium |
 | [1329](1329.cpp) | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Medium |
 | [1338](1338.cpp) | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium |

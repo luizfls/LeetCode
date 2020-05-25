@@ -58,6 +58,7 @@ public:
             _references[key] = std::prev(_list.end());
         }
     }
+
 private:
     int _capacity;
     std::list<KeyValue> _list;
