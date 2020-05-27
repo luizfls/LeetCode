@@ -25,6 +25,7 @@ https://leetcode.com/
 | [0463](0463.cpp) | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy |
 | [0540](0540.cpp) | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium |
 | [0543](0543.cpp) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
+| [0567](0567.cpp) | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium |
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
 | [0733](0733.cpp) | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |
 | [0807](0807.cpp) | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium |
