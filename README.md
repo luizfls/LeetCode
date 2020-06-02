@@ -8,6 +8,7 @@ https://leetcode.com/
 | [0002](0002.cpp) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
 | [0012](0012.cpp) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium |
 | [0017](0017.cpp) | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
+| [0034](0034.cpp) | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0058](0058.cpp) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
 | [0064](0064.cpp) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium |
 | [0073](0073.cpp) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium |
