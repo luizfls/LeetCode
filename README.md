@@ -49,3 +49,4 @@ https://leetcode.com/
 | [1302](1302.cpp) | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium |
 | [1329](1329.cpp) | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Medium |
 | [1338](1338.cpp) | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium |
+| [1381](1381.cpp) | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium |
