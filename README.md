@@ -13,6 +13,7 @@ https://leetcode.com/
 | [0058](0058.cpp) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
 | [0064](0064.cpp) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium |
 | [0073](0073.cpp) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium |
+| [0088](0088.cpp) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |
 | [0100](0100.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
 | [0124](0124.cpp) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
 | [0125](0125.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
