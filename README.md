@@ -9,6 +9,7 @@ https://leetcode.com/
 | [0012](0012.cpp) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium |
 | [0014](0014.cpp) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
 | [0017](0017.cpp) | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
+| [0021](0021.cpp) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | [0034](0034.cpp) | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0058](0058.cpp) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
 | [0064](0064.cpp) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium |
