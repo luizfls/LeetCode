@@ -2,7 +2,6 @@
 My solutions to LeetCode problems
 
 https://leetcode.com/
-
 |  #  | Problem description | Difficulty | Notes |
 | --- | ------------------- | ---------- | ----- |
 | [0002](0002.cpp) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
@@ -27,6 +26,7 @@ https://leetcode.com/
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [0242](0242.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | [0328](0328.cpp) | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |
+| [0343](0343.cpp) | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |
 | [0394](0394.cpp) | [Decode String](https://leetcode.com/problems/decode-string/) | Medium |
 | [0415](0415.cpp) | [Add Strings](https://leetcode.com/problems/add-strings/) | Easy |
 | [0438](0438.cpp) | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
