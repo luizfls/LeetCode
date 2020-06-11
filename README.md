@@ -36,6 +36,7 @@ https://leetcode.com/
 | [0543](0543.cpp) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
 | [0567](0567.cpp) | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium |
 | [0575](0575.cpp) | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy |
+| [0637](0637.cpp) | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy |
 | [0733](0733.cpp) | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |
 | [0807](0807.cpp) | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium |
 | [0831](0831.cpp) | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | Medium |
