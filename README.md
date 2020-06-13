@@ -45,6 +45,7 @@ https://leetcode.com/
 | [0958](0958.cpp) | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium |
 | [0986](0986.cpp) | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium |
 | [0993](0993.cpp) | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy |
+| [0997](0997.cpp) | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy |
 | [1008](1008_iterative.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Iterative |
 | [1008](1008_recursive.cpp) | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Recursive |
 | [1028](1028.cpp) | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |
