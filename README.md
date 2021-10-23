@@ -15,6 +15,7 @@ https://leetcode.com/
 | [0064](0064.cpp) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium |
 | [0073](0073.cpp) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium |
 | [0088](0088.cpp) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |
+| [0098](0098.cpp) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
 | [0100](0100.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
 | [0124](0124.cpp) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
 | [0125](0125.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
