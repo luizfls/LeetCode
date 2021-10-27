@@ -23,6 +23,7 @@ https://leetcode.com/
 | [0146](0146.cpp) | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
 | [0200](0200.cpp) | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |
 | [0201](0201.cpp) | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium |
+| [0207](0207.cpp) | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium |
 | [0217](0217.cpp) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
 | [0232](0232.cpp) | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
 | [0238](0238.cpp) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
